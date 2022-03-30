@@ -35,6 +35,21 @@ the instructions:
 
 1. Finally, run the `hello-world` container iamge and record the results.
 
+### **Container Images and Registries**
+
+What you just did was "pull" and existing container image from the Docker
+Hub container image registry. Docker Hub and other registries like it
+allow us to share and leverage existing container images and their
+functionality for our own purposes. This greatly reduces the time to
+market for developing your own solutions because you are able to leverage
+existing solutions of others.
+
+It also enables us to replace or experiment with different container
+images for the same purposes or to introduce all new functionality. The
+fact container registries are available enables us to deliver solutions
+faster and in some cases use functionality we would not otherwise be able
+to accomplish due to costs, technical limitations, or lack of capability.
+
 -------------------------------------------------
 
 ### **Deliverables**
